@@ -42,7 +42,7 @@ fi
 
 # Start the server
 echo "🌐 Starting server..."
-echo "   Server will be available at: http://localhost:8000"
+echo "   Server will be available at: http://107.172.230.215:3000"
 echo "   Press Ctrl+C to stop the server"
 echo ""
 
